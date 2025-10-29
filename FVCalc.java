@@ -4,7 +4,6 @@ public class FVCalc {
 		// Replace this comment with your code
 		int a = 5;
 		int b = 10;
-		int c = 15;
 
 		
 	}
