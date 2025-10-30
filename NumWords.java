@@ -14,7 +14,7 @@ public class NumWords {
 
 		int units = remainder10;
 
-		System.out.println(hundreds +" hundreds, " + tens + " tens, and " + units + " ones .");
+		System.out.println(hundreds +" hundreds, " + tens + " tens, and " + units + " ones.");
 
 
 
